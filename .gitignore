@@ -1,2 +1,6 @@
 # Ignore old README file
 oldREADME.md
+./myenv
+LICENSE
+Procfile
+README.md
